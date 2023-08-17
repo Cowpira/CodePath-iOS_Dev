@@ -45,6 +45,14 @@ Describe any challenges encountered while building the app.
 - rounded button
 - labels bounce animattion on the click event
 
+## App Brainstorming
+1º Tune In Radio
+  - the future that I like most in this application is that when you select a radio the background of the screen will math with the radio team color using gradient.
+
+2º WhatsApp
+  - i like how smooth it's the pop up window to delete a chat
+  
+
 ## License
 
     Copyright [2023] [Delivery-TI]
