@@ -14,8 +14,8 @@ Time spent: **25 minutes** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -43,7 +43,7 @@ Describe any challenges encountered while building the app.
 ## Features added
 - change labels color
 - rounded button
-- labels bounce animattion on the click event
+- labels bounce animation on the click event
 
 ## App Brainstorming
 1º Tune In Radio
