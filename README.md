@@ -46,9 +46,9 @@ Describe any challenges encountered while building the app.
 - labels bounce animation on the click event
 
 ## Images demo of Prework
-  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen1.JPG" width="200" height="400" title="Prework-Screen1" alt="Screen1" /> 
-  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen2.JPG" width="200" height="400" title="Prework-Screen2" alt="Screen2" /> 
-  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen3.JPG" width="200" height="400" title="Prework-Screen3" alt="Screen3" />
+  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen1.JPG" width="245" height="400" title="Prework-Screen1" alt="Screen1" /> |
+  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen2.JPG" width="245" height="400" title="Prework-Screen2" alt="Screen2" /> |
+  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen3.JPG" width="245" height="400" title="Prework-Screen3" alt="Screen3" />
       
   
 
