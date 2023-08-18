@@ -1,5 +1,4 @@
 # CodePath-iOS - Prework
-This repository is specially to add files from the CodePath iOS development.
 #__________________________________________________________________________#
 
 # Prework - *Fiest_iOS_App*
@@ -32,6 +31,12 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+1º Tune In Radio
+  - the future that I like most in this application is that when you select a radio the background of the screen will math with the radio team color using gradient.
+
+2º WhatsApp
+  - i like how smooth it's the pop up window to delete a chat
+
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -44,14 +49,14 @@ Describe any challenges encountered while building the app.
 - change labels color
 - rounded button
 - labels bounce animation on the click event
-      
 
-## App Brainstorming
-1º Tune In Radio
-  - the future that I like most in this application is that when you select a radio the background of the screen will math with the radio team color using gradient.
 
-2º WhatsApp
-  - i like how smooth it's the pop up window to delete a chat
+
+## Images demo of Prework
+  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen1.JPG" width="245" height="490" title="Prework-Screen1" alt="Screen1" /> |
+  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen2.JPG" width="245" height="490" title="Prework-Screen2" alt="Screen2" /> | 
+  <img src="https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen3.JPG" width="245" height="490" title="Prework-Screen3" alt="Screen3" />
+
   
 
 ## License
