@@ -48,7 +48,7 @@ Describe any challenges encountered while building the app.
 ## Images demo of Prework
 <table>
    <tr>
-      <td>
+      <td align='center'>
           <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen1.JPG' title='Prework-Screen1' width='125'    height='255' alt='Screen1' />
       </td>
       <td>
