@@ -49,13 +49,13 @@ Describe any challenges encountered while building the app.
 <table style="width: 100%">
    <tr>
       <td align='center'>
-          <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen1.JPG' title='Prework-Screen1' width='155'    height='285' alt='Screen1' />
+          <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen1.JPG' title='Prework-Screen1' width='175'    height='325' alt='Screen1' />
       </td>
       <td>
-          <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen2.JPG' title='Prework-Screen2' width='155' height='285' alt='Screen2' />
+          <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen2.JPG' title='Prework-Screen2' width='175' height='325' alt='Screen2' />
       </td>
       <td>
-          <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen3.JPG' title='Prework-Screen3' width='155' height='285' alt='Screen3' />
+          <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen3.JPG' title='Prework-Screen3' width='175' height='325' alt='Screen3' />
       </td>
    </tr>
 </table>
