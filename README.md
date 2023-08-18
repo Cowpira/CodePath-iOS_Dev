@@ -35,7 +35,7 @@ GIF created with ...
   - the future that I like most in this application is that when you select a radio the background of the screen will math with the radio team color using gradient.
 
 2º WhatsApp
-  - i like how smooth it's the pop up window to delete a chat
+  - I like how smooth it's the pop up window to delete a chat
 
 ## Notes
 
