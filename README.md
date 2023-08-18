@@ -46,8 +46,8 @@ Describe any challenges encountered while building the app.
 - labels bounce animation on the click event
 
 ## Images demo of Prework
-<table>
-   <tr style="width: 100%">
+<table style="width: 100%">
+   <tr >
       <td align='center'>
           <img src='https://raw.githubusercontent.com/Cowpira/CodePath-iOS_Prework/main/Images/prework-screen1.JPG' title='Prework-Screen1' width='125'    height='255' alt='Screen1' />
       </td>
