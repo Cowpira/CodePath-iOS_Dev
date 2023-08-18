@@ -1,5 +1,4 @@
 # CodePath-iOS - Prework
-This repository is specially to add files from the CodePath iOS development.
 #__________________________________________________________________________#
 
 # Prework - *Fiest_iOS_App*
